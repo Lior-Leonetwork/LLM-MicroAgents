@@ -7,12 +7,6 @@
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
-  <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png" height="60">
-</picture>
-
 # LLM MicroAgents
 
 > **Sub-agents as stateless microservices.** Keep the orchestrator thin. Workers get only what they need.
@@ -47,6 +41,12 @@ Orchestrator (thin)
 ---
 
 ## Why OpenClaw is the Best Fit
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
+  <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png" height="60">
+</picture>
 
 OpenClaw has **native, first-class support** for this pattern via its built-in `sessions_spawn` tool — no subprocess wrangling, no shell scripting, no glue code.
 
