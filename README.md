@@ -1,4 +1,11 @@
-<img width="612" height="408" alt="ChatGPT_Image_Feb_18__2026__12_48_58_PM-removebg-preview" src="https://github.com/user-attachments/assets/fc4b6966-bb06-4d57-bb78-4721decd6cdd" />
+<img
+  width="387"
+  height="114"
+  alt="LLM MicroAgents"
+  src="https://github.com/user-attachments/assets/b572f008-15f3-4f06-a734-bf99f82543c6"
+/>
+
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png">
