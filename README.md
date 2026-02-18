@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d119e36-f5b5-4425-b44f-4b73166c2fbd" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dce59c25-c270-4a11-83ba-36fe7ef7d52a" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png">
