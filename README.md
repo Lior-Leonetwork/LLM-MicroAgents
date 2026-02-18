@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dce59c25-c270-4a11-83ba-36fe7ef7d52a" />
+<img width="612" height="408" alt="ChatGPT_Image_Feb_18__2026__12_48_58_PM-removebg-preview" src="https://github.com/user-attachments/assets/fc4b6966-bb06-4d57-bb78-4721decd6cdd" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png">
