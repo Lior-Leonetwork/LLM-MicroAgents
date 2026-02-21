@@ -11,7 +11,7 @@
 
 > **Sub-agents as stateless microservices.** Keep the orchestrator thin. Workers get only what they need.
 
-**78% average token savings** • Works with any LLM • Battle-tested in production • Native support in [OpenClaw](https://openclaw.ai)
+**78% average token savings** • **10,015 tasks completed** • Works with any LLM • Battle-tested in production • Native support in [OpenClaw](https://openclaw.ai)
 
 ---
 
@@ -83,7 +83,7 @@ See [`guides/openclaw.md`](./guides/openclaw.md) for the full OpenClaw implement
 | Investigate root cause | 9,600 | ~40,000 | **76.0%** |
 | Log rotation setup | 585 | ~14,800 | **96.0%** |
 
-See [`examples/tokens-saved.md`](./examples/tokens-saved.md) for detailed breakdowns.
+See [`examples/tokens-saved.md`](./examples/tokens-saved.md) for detailed breakdowns and [`examples/10k-tasks-analysis.md`](./examples/10k-tasks-analysis.md) for what the data shows at 10,000+ tasks.
 
 ---
 
@@ -214,6 +214,7 @@ See [`guides/claude-code.md`](./guides/claude-code.md) for the full subprocess-b
 | [`guides/openclaw.md`](./guides/openclaw.md) | Native `sessions_spawn` implementation (recommended) |
 | [`guides/claude-code.md`](./guides/claude-code.md) | Subprocess-based workers for Claude Code |
 | [`examples/tokens-saved.md`](./examples/tokens-saved.md) | Real token savings data |
+| [`examples/10k-tasks-analysis.md`](./examples/10k-tasks-analysis.md) | What changes at 10,000 tasks — compounding savings, model selection, failure modes |
 
 ---
 
